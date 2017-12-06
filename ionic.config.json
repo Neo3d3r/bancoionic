@@ -1,6 +1,6 @@
 {
   "name": "Banco1",
-  "app_id": "",
+  "app_id": "0c73f45b",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
